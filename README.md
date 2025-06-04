@@ -14,3 +14,8 @@ Then you will want to choose the $5-$12 a month plan since its free for the 90 d
 Then you will want to name the instance this will be TestSite1  
 ![image](https://github.com/user-attachments/assets/ea7cbaa6-3b44-4526-ac34-a7c1c9c6f23f)  
 
+Second step after its setup is to click on connecting by SSH in the top right corner with the three dashes  
+![image](https://github.com/user-attachments/assets/c0aa92f3-8c1f-4279-b89d-72c1730c9876)  
+
+Click it to connect, afterwards a browser will pop up with the Linux instance  
+![image](https://github.com/user-attachments/assets/c72d39e4-d70d-4cc0-ba31-f15c57029749)
