@@ -18,4 +18,16 @@ Second step after its setup is to click on connecting by SSH in the top right co
 ![image](https://github.com/user-attachments/assets/c0aa92f3-8c1f-4279-b89d-72c1730c9876)  
 
 Click it to connect, afterwards a browser will pop up with the Linux instance  
-![image](https://github.com/user-attachments/assets/c72d39e4-d70d-4cc0-ba31-f15c57029749)
+![image](https://github.com/user-attachments/assets/c72d39e4-d70d-4cc0-ba31-f15c57029749)  
+
+Then enter the following command to get the password:  
+cat $HOME/bitnami_application_password. Save it for later.  
+
+Third step is signing in on the admin dashboard of the website  
+Type in a browser: http://yourPublicIPaddress/wp-login.php and replace it with your IP Address. You can find your Public IPv4 address by clicking the Wordpress site name on Lightsail  
+
+Next step is to login on the instance website. For user logon, put user and for password put what you got from the Linux terminal to login.  
+After that you will be greeted by the dashboard for the admin side.  
+![image](https://github.com/user-attachments/assets/6001b906-7713-4bd5-a20b-563084bde7bb)  
+
+
