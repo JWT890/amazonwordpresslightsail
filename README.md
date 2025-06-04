@@ -33,7 +33,8 @@ After that you will be greeted by the dashboard for the admin side.
 Fourth step is back on the Lightsail page, to choose the running instance once again and go to the networking tab and create a static IP address.  
 Then create a DNS zone. Go to the Domains & DNS tab on the side and choose create a DNS zone.  
 ![image](https://github.com/user-attachments/assets/08c0dd13-eb3e-4fe3-bf4d-a002c7ded4c5)  
-Before this, however, you need to create a domain name prior to the DNS zone. Go to the create a domain name tab and think of a domain that is not in use.  
+Before this, however, you need to create a domain name prior to the DNS zone. Go to the create a domain name tab and think of a domain that is not in use. Then circle back to the DNS zone portion  
+
 
 
 
