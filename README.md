@@ -44,6 +44,7 @@ For record type chose A record, for record name chose one of the server addresse
 Press save and let it sit for a few minutes.  
 
 For the final step go back to instances on the Lightsail home page and click on the three dots in the corner of the instance and choose the delete option. Click yes, and you are done.  
+![image](https://github.com/user-attachments/assets/47a8a656-c165-4a2f-acd7-caf9b90a7a52)  
 After this you should be able to know how to use Lightsail to deploy a Wordpress website
 
 
