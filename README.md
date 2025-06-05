@@ -40,7 +40,11 @@ After some time, take note of the name server addresses located below. After loc
 And click on example.com or what you named it.  
 Next go to DNS records and click on add DNS Record and should get something like this:  
 ![image](https://github.com/user-attachments/assets/7dc989cc-f6e6-4790-a467-9ce65c8e529e)  
+For record type chose A record, for record name chose one of the server addresses for record name, and for resolves to put what your static IP address was assigned to earlier.  
+Press save and let it sit for a few minutes.  
 
+For the final step go back to instances on the Lightsail home page and click on the three dots in the corner of the instance and choose the delete option. Click yes, and you are done.  
+After this you should be able to know how to use Lightsail to deploy a Wordpress website
 
 
 
